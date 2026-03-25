@@ -137,5 +137,5 @@ git push origin feature-branch
 ## **License** 📜
 This project is licensed under the MIT License.
 
-💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/Garbage-Classifier.git)
+💡 Developed with ❤️ by NIKHIL KUMAR
 
